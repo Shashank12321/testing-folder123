@@ -1,8 +1,3 @@
-# testing-folder123
-im learning how to use git
-
-
-
             h1 {
                 text-decoration:underline;
                 font-family:fantasy;
